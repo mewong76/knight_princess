@@ -1,0 +1,21 @@
+h1{text-align: center}
+h1{color: red}
+h1{ font-family:monospace}
+body{background-image: url(https://vignette.wikia.nocookie.net/clubpenguin/images/b/b7/Lava_Pool.png/revision/latest?cb=20160602012752); 
+    background-size:cover;
+}
+
+div.a{text-align: center}
+
+
+div {text-align:left}
+
+.try-again{
+    color:deepskyblue;
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    font-size: 100;
+    text-align: center;
+}
