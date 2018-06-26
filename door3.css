@@ -1,0 +1,14 @@
+body{ 
+    background-image: url(https://media1.giphy.com/media/l29icUYbAbGQU/giphy.gif);
+    background-size: cover;
+}
+h1{
+    text-align: center
+}
+h1{color: crimson}
+h1{font-size: 50px}
+a{font-size: 40px}
+p{text-align: center}
+p{color: antiquewhite}
+a{text-align: right}
+p{font-size: 40px}

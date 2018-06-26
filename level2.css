@@ -1,7 +1,23 @@
 h1{
-    text-align: center
+    text-align: center;
 }
 h1{
-    color: salmon
+    color: salmon;
 }
-h1{font-family: fantasy}
+h1{font-family: fantasy;}
+
+div.a{text-align: left;}
+div.b{text-align: center;}
+div.c{text-align: right;}
+p{text-align: center;}
+body{ 
+    background-image: url(https://grantcardonetv.com/wp-content/uploads/gctv-3-doors.jpg);
+    background-size: cover;
+}
+div.a{font-size: 30px}
+div.b{font-size: 30px}
+div.c{font-size: 30px}
+p{font-size: 30px}
+p{color: teal}
+p{font-family: fantasy}
+

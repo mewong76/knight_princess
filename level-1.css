@@ -1,9 +1,28 @@
 h1{text-align: center}
-h1{color: seagreen}
+h1{color: salmon}
 h1{
     font-family: fantasy
 }
-body{ 
-    background-image: url(https://78.media.tumblr.com/0040040ed086a05bf054f76c1bf557de/tumblr_oum06wzkFP1rf1fd6o1_r1_500.gif)
 
+body{ 
+    background-image: url(https://grantcardonetv.com/wp-content/uploads/gctv-3-doors.jpg);
+    background-size: cover;
+}
+
+div.a{text-align: left}
+div.b{text-align: center}
+div.c{text-align: right}
+
+
+h1 {
+    font-size: 50px
+}
+div.a{
+    font-size: 30px
+}
+div.b{
+    font-size: 30px
+}
+div.c{
+    font-size: 30px
 }
