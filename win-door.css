@@ -1,0 +1,21 @@
+h1{text-align: center;}
+h1{color:limegreen;}
+h1{font-family:cursive;}
+h1{font-size:70}
+body{
+    background-image: url(https://vignette.wikia.nocookie.net/nintendo/images/8/83/Peach_MP100.png/revision/latest?cb=20170918143319&path-prefix=en);
+    background-size:cover;
+}
+
+ 
+div {text-align: left}
+
+.play-again{
+    color: deepskyblue
+    text-decoration:none;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+        font-size: 100;
+    text-align:center;
+}
